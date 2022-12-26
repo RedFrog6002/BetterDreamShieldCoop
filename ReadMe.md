@@ -21,3 +21,6 @@ Custom Knight Compatibility!
 
 Both the Dreamshield and Grimmchild have their own separate sprite collections! (AKA, different spritesheet name for customknight)
 They use Shield_coop.png and Grimm_coop.png, if these are not present, they will retain their default sprites.
+
+Depends on FrogCore and Satchel
+Made using SFGrenade's modding template
